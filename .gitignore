@@ -1,6 +1,6 @@
 node_modules
 output
-urls.txt
-tags.txt
-keywordRename.js
+u.txt
+t.txt
 rename.bat
+download.bat
